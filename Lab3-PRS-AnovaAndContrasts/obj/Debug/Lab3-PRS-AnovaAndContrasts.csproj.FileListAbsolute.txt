@@ -1,0 +1,10 @@
+D:\PRS\Lab3-PRS-AnovaAndContrasts\Lab3-PRS-AnovaAndContrasts\bin\Debug\Lab3-PRS-AnovaAndContrasts.exe.config
+D:\PRS\Lab3-PRS-AnovaAndContrasts\Lab3-PRS-AnovaAndContrasts\bin\Debug\Lab3-PRS-AnovaAndContrasts.exe
+D:\PRS\Lab3-PRS-AnovaAndContrasts\Lab3-PRS-AnovaAndContrasts\bin\Debug\Lab3-PRS-AnovaAndContrasts.pdb
+D:\PRS\Lab3-PRS-AnovaAndContrasts\Lab3-PRS-AnovaAndContrasts\obj\Debug\Lab3-PRS-AnovaAndContrasts.csprojAssemblyReference.cache
+D:\PRS\Lab3-PRS-AnovaAndContrasts\Lab3-PRS-AnovaAndContrasts\obj\Debug\Lab3-PRS-AnovaAndContrasts.csproj.CoreCompileInputs.cache
+D:\PRS\Lab3-PRS-AnovaAndContrasts\Lab3-PRS-AnovaAndContrasts\obj\Debug\Lab3-PRS-AnovaAndContrasts.exe
+D:\PRS\Lab3-PRS-AnovaAndContrasts\Lab3-PRS-AnovaAndContrasts\obj\Debug\Lab3-PRS-AnovaAndContrasts.pdb
+D:\PRS\Lab3-PRS-AnovaAndContrasts\Lab3-PRS-AnovaAndContrasts\bin\Debug\MathNet.Numerics.dll
+D:\PRS\Lab3-PRS-AnovaAndContrasts\Lab3-PRS-AnovaAndContrasts\bin\Debug\MathNet.Numerics.xml
+D:\PRS\Lab3-PRS-AnovaAndContrasts\Lab3-PRS-AnovaAndContrasts\obj\Debug\Lab3-PRS-AnovaAndContrasts.csproj.CopyComplete
